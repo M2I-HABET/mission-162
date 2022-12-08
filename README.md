@@ -25,7 +25,7 @@ HAR Data was collected. HAR failed to transmit to Mission Control around 22K fee
 ### Atmospheric Data
 Below is the temperature data recorded. This was recorded with the onboard temperature since located on the Clue board. This board was located in the spacecraft.
 <img
-  src="Plots/har_temp_plot.pdf"
+  src="Plots/har_temp_plot.png"
   alt="HAR Temperature"
   title="HAR Temperature Plot"
   style="display: inline-block; margin: 0 auto; max-width: 800px">
